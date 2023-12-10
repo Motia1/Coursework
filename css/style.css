@@ -285,7 +285,7 @@ h2{
 }
 .circle{
   margin-top:56px;
-  background: url("./img/circle.svg") no-repeat;
+  background-image: url("../img/circle.svg");
   background-size: cover;
   border-radius: 20px;
 }
